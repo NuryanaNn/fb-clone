@@ -1,0 +1,89 @@
+nav{
+    position: fixed;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+}
+.facebook ul, .status ul, .navbar ul, .teks ul, .card ul, .statusfb ul, .like ul{
+    display: flex;
+    list-style: none;
+}
+
+.icon1{
+    margin-left: 208px;
+    margin-right: 20px;
+}
+.icon{
+    margin-left: auto;
+}
+
+/* Section 3 */
+.icon2{
+    margin-left: 53px;
+}
+
+.teks1{
+    margin-left: 70px;
+}
+
+.garis-vertikal{
+    border-left : 1px solid black;
+    height: 20px;
+    width: 0px;
+    margin-left: 60px;
+    margin-top: 6px;
+}
+
+.card img{
+    width: 100px;
+    height: 170px;
+    border-radius: 15px;
+}
+
+.card ul li{
+    margin-left: 10px;
+}
+
+.tombol{
+    margin-left: 50px;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+
+/* Sheet Friend */
+.friend ul, .permintaan ul {
+    list-style: none;
+    display: flex;
+}
+
+.all{
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+/* Section Chat */
+.img3{
+    width: 70px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+/* Section menu */
+.menu ul{
+    list-style-type: none;
+}
+
+menu ul li{
+    margin-top: 20px;
+}
+
+.tambah1{
+    margin-left: 10px;
+}
+
+.postingan ul li{
+    margin-left: 30px;
+}
+
+
+
